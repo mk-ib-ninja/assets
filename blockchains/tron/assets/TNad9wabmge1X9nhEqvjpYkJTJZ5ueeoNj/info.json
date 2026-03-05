@@ -1,0 +1,11 @@
+{
+    "name": "USOT",
+    "symbol": "USOT",
+    "type": "TRC20",
+    "decimals": 6,
+    "description": "USOT is a stable TRC20 token",
+    "website": "",
+    "explorer": "https://tronscan.org/#/contract/TNad9wabmge1X9nhEqvjpYkJTJZ5ueeoNj",
+    "status": "active",
+    "id": "TNad9wabmge1X9nhEqvjpYkJTJZ5ueeoNj"
+}
